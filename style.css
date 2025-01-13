@@ -1,0 +1,35 @@
+body {
+  background-color: palegoldenrod
+}
+p {
+  color: palevioletred
+}
+h1 {
+  font-weight: bold;
+ font-family: cursive
+}
+h4 {font-family: cursive}
+h3{font-family: cursive}
+img {
+  height: 150px;
+  
+  border-color: antiquewhite;
+  
+}
+
+p{font-family: verdana
+}
+li {
+  color: peru;
+}
+
+.container {
+  display: flex;
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: space-around;
+border-style: solid;
+
+  
+}
